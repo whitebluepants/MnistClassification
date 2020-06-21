@@ -30,5 +30,5 @@ MnistClassification_GUI.py, MnistClassification_layout.py, paintboard.py - GUI F
 
 Running picture
 
-![run](https://raw.githubusercontent.com/whitebluepants/CIFAR10Classification/master/Running.png)
+![run](https://raw.githubusercontent.com/whitebluepants/MnistClassification/master/Running.png)
 
