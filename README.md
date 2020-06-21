@@ -2,7 +2,7 @@
 
 do it when learning deeping learning
 
-
+---
 
 Environment:
 
@@ -13,6 +13,8 @@ Environment:
 ​	Python 3.6.10
 
 }
+
+---
 
 
 
@@ -26,7 +28,7 @@ Mnist_Classification.py - Model, Train, Predict
 
 MnistClassification_GUI.py, MnistClassification_layout.py, paintboard.py - GUI File
 
-
+---
 
 Running picture
 
