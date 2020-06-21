@@ -25,3 +25,10 @@ temp.png - temp picture when show the result
 Mnist_Classification.py - Model, Train, Predict
 
 MnistClassification_GUI.py, MnistClassification_layout.py, paintboard.py - GUI File
+
+
+
+Running picture
+
+![run](https://raw.githubusercontent.com/whitebluepants/CIFAR10Classification/master/Running.png)
+
